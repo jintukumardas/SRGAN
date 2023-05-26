@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 # Usage: 
 The project can be used to generate high-resolution images from low-resolution images using the following command:
-# python main.py --input_image <path_to_low_resolution_image> --output_image <path_to_high_resolution_image>
+python main.py --input_image <path_to_low_resolution_image> --output_image <path_to_high_resolution_image>
 
 # Results: 
 The project has been shown to be effective in generating high-quality high-resolution images from low-resolution images.
